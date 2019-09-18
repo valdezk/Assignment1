@@ -1,0 +1,11 @@
+Start Program
+
+prompt user for an int (x)
+
+ if x % == 0 then "number is even"
+
+else
+
+ "number is odd"
+
+end.
